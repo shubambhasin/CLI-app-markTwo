@@ -6,32 +6,32 @@ var score =0;
 
 var easySet = [{
   question:"What is the captial of India \n Mumbai \n Delhi\n Chennai\n-------\n",
-  answer:"Delhi"
+  answer:"delhi"
 }, {
   question:"What is the capital of Punjab \n Himachal \n Chandigarh \n Delhi\n-------\n",
-  answer:"Chandigarh"
+  answer:"chandigarh"
 }, {
   question:"Where is Taj MAhal Located ? \nJammu and KAshmir \n Delhi \n Agra\n-------\n",
-  answer:"Agra"
+  answer:"agra"
 }, {
   question:"Golden temple is a sacred place of ?\nSikhs\nHindu\nChristans\n-------\n",
-  answer:"Sikhs"
+  answer:"sikhs"
 }]
 
 
 ///medium set
 var mediumSet = [{
   question:"What is the captial of Chile \n London \n Santiago\n Abu Dhabi\n-------\n",
-  answer:"Santiago"
+  answer:"santiago"
 }, {
   question:"What is the largest country in the world \n Russia \n India \n China\n-------\n",
-  answer:"Russia"
+  answer:"russia"
 }, {
   question:"What is the hottest continent on Earth ? \nAfrica\n Asia \n New Zealand\n-------\n",
-  answer:"Africa"
+  answer:"africa"
 }, {
   question:"What is the longest river in the world?\nBrahamputra\nGanga\nNile\n-------\n",
-  answer:"Nile"
+  answer:"nile"
 }]
 
 
